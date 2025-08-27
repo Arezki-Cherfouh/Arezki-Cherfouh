@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m Arezki Cherfouh
+🚀 Founder of Qwerify — a new way to connect and communicate online
+💻 Passionate about software engineering, AI, and building scalable systems
+📚 Skilled in Python, JavaScript, FastAPI, Node.js, and HTML/CSS
+🎯 Currently working on: Qwerify, AI integrations, and mobile development
+🌍 Dream: Become a world-class engineer and CEO, building the next big tech company
+
 
 <!--
 **Qwerify/Qwerify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
