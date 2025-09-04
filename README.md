@@ -1,5 +1,5 @@
-👋 Hi, I’m Arezki Cherfouh
-🚀 Founder of Qwerify — a new way to connect and communicate online
+👋 Hi, I’m Arezki Cherfouh, born in September 07 2009
+🚀 Founder of Qwerify in July 19 2025 — a new way to connect and communicate online
 💻 Passionate about software engineering, AI, and building scalable systems
 📚 Skilled in Python, JavaScript, FastAPI, Node.js, and HTML/CSS
 🎯 Currently working on: Qwerify, AI integrations, and mobile development
