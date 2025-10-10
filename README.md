@@ -2,7 +2,7 @@ I’m Arezki Cherfouh, a student developer and founder & CEO of Qwerify, a commu
 Born in September 07 2009 and passionate about AI.
 I specialize in Python, JavaScript, FastAPI, Node.js, SQL (PostgreSQL) and HTML/CSS, with growing experience in system design and AI. Through Qwerify, I’ve gained hands-on expertise in developing full-stack applications, implementing real-time communication, handling authentication, and preparing infrastructure for scalability.
 
-My long-term mission is to become a world-class software engineer and later scale Qwerify into a global platform that rivals today’s biggest tech companies — with a focus on innovation, privacy, and user empowerment.
+My long-term mission is to become a world-class AI engineer and CEO and later scale Qwerify into a global platform that rivals today’s biggest tech companies — with a focus on innovation, privacy, and user empowerment.
 
 Currently, I’m focused on:
 
