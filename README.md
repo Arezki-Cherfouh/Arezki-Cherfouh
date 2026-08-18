@@ -1,15 +1,47 @@
-I’m Arezki Cherfouh, a student developer and the Founder & CEO of Qwerify, an independent tech project I started on July 19 2025 to rethink how people connect and interact through technology.
-Born on September 07 2009 and passionate about AI and innovation.
+# Hi, I'm Arezki Cherfouh 👋
 
-Qwerify is currently in development — not yet a registered company — but it represents my long-term vision of building a global technology brand that expands beyond communication into AI-driven systems, productivity tools, and scalable digital experiences that help people without distraction.
+I’m Arezki Cherfouh, a student developer passionate about AI engineering, systems architecture, and innovation. Born in September 2009, my journey is driven by a long-term goal to become a world-class AI engineer and technology leader, specializing in engineering software systems that prioritize human focus, performance, and high scalability.
 
-I specialize in Python, C++, JavaScript/TypeScript, FastAPI, Node.js, SQL (PostgreSQL), ReactJS/React Native and HTML/CSS and Tailwind CSS & Bootstrap, with growing experience in system design and AI. Through Qwerify, I’ve gained practical experience in full-stack development, real-time communication, secure authentication, and infrastructure scalability.
+As a self-driven Software AI Engineer, I develop using a strong technical stack that includes Python, C++, JavaScript/TypeScript, FastAPI, Node.js, SQL/PostgreSQL, and ReactJS/React Native. My practical experience spans across multiple software engineering initiatives, network architectures, and standalone development projects.
 
-My long-term goal is to become a world-class AI engineer and CEO, and to grow Qwerify into a global company that competes with leading tech innovators — guided by the principles of privacy, focus, and human-centered design.
+A major milestone in my track record is **Qwerify**, an independent technology initiative I launched on July 19, 2025, under which I successfully architected and built a multi-platform ecosystem of digital brands. Designed to rethink digital interaction around privacy and zero-distraction frameworks, the Qwerify suite encompasses a few distinct platforms, including an AI assistant, real-time communication networks featuring voice and video calling and group chatting/calling, and interactive embedded gaming environments and other utilities.
 
-Currently, I’m focused on:
-• Strengthening my knowledge in data structures, algorithms, and system design for big tech opportunities
-• Expanding Qwerify with AI features, mobile development
-• Building a professional portfolio on GitHub and connecting with engineers, founders, and innovators worldwide
+Through architecting these various deployments, my core focus has been engineering data-heavy, intelligence-driven backends. I have gained extensive, hands-on experience in training and fine-tuning specialized LLM interfaces, implementing low-latency real-time synchronization pipelines, microservices, and secure authentication workflows. Currently, I am fully dedicated to mastering advanced Data Structures, Algorithms, and System Design and AI integrated ecosystems.
 
-Always open to collaborating with those who share the vision of creating technology that empowers people — not distracts them.
+I am actively open to professional opportunities, including software engineering roles, AI/ML internships, and technical collaborations with engineers, companies, and innovators worldwide who share the vision of purposeful, human-centered technology.
+
+---
+
+### 🛠️ Languages & Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+</p>
+
+<p align="left">
+  <!-- Backend & Database -->
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+</p>
+
+<p align="left">
+  <!-- Frontend & Mobile -->
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="React Native" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+- 📧 **Email**: [arezki.cherfouh09@gmail.com](mailto:arezki.cherfouh09@gmail.com)
+- 💼 **LinkedIn**: *[Insérez le lien de votre profil ici]*
+
+<p align="center">
+  <em>Guided by the principles of privacy, human focus, and zero-distraction engineering.</em>
+</p>
